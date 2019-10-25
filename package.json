@@ -1,0 +1,22 @@
+{
+	"name": "apidemo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"install": "node index.js"
+	},
+	"devDependencies": {
+	},
+	"dependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pass0a/apidemo.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/pass0a/apidemo/issues"
+	},
+	"homepage": "https://github.com/pass0a/apidemo#readme"
+}
